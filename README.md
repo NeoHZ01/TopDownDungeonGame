@@ -2,6 +2,7 @@
 
 Controls:
 WASD - To move
+
 Space - To attack
 
 Credits
