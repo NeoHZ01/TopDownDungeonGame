@@ -1,4 +1,4 @@
-# This is a top down dungeon game that I made with the help of a tutorial and some tweaking of my own.
+# This is a top down dungeon game that I made with the help of a tutorial
 
 Controls:
 WASD - To move
